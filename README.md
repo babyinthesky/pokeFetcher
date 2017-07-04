@@ -16,7 +16,7 @@ e.g.  java -classpath .:json-20170516.jar:src pokeFetcher.PokeFetcher 20 70
 
 output samples:
 
-pokemon id:20
+pokemon id:20 \n
 pokemon name:raticate
 pokemon weight:185
 pokemon height:7

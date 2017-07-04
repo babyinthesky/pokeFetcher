@@ -1,6 +1,7 @@
 # pokeFetcher
 Pokemon fetcher using Pokemon get api
 
+How to run the code:
 
 javac -classpath "./json-20170516.jar"  src/pokeFetcher/*.java
 
